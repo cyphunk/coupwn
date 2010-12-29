@@ -1,5 +1,13 @@
-compiled with scratchbox for the nokia n900
+compiled for the nokia n900
 
 for installation of sdk see:
 	http://metalab.at/wiki/Hack-A-N900/Development_Notes
 	http://metalab.at/wiki/Hack-A-N900/Development
+
+last time we compiled this was probably 3 months ago. I believe
+I used the MADDE SDK but we also compiled this code at some
+point using scratchbox.
+
+Server/Client and tor code missing so the code alone is perhaps
+just interesting to understand n900 SMS db interaction and Qt
+gui whatnot.
